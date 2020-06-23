@@ -1,0 +1,47 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+div {
+    border: solid #bdc3c7;
+    border-width: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 0 20px;
+
+}
+
+h2 {
+    font-size: 30px;
+    color: #2c3e50;
+}
+
+
+.selected-border {
+    border-left: solid #bdc3c7;
+    border-width: 5px;
+    
+
+}
+
+
+hr{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.padding-p {
+    padding-left: 6px;
+}
+
+
+#date-head {
+    font-size: 20px;
+    color: #0dcbd9;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
